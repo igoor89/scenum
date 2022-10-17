@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666466845,
+			"expirationDate": 1666571540,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -49,20 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1665948050.001992,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "id_ID"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1697397608.663624,
+			"expirationDate": 1697502513.141064,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697397608.663664,
+			"expirationDate": 1697502513.1411,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +71,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "22%3AuVgVIMDPjwlDkw%3A2%3A1665343830%3A-1%3A11789%3A%3AAcX7YeIXyhDZfWuev_AEJEoVze4w_8BRmqaC19-HNA"
+			"value": "22%3AuVgVIMDPjwlDkw%3A2%3A1665343830%3A-1%3A11789%3A%3AAcVS8M8sm5wEMLCw0jigHVs4WyHwIei55ODvviR3zQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673637885.643989,
+			"expirationDate": 1673742598.636739,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -97,7 +84,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "08TRyscyAhsmXrXeL.AWV5x9XTiqXIQvjyYMSGKxfVHrg.BjSwfo.mE.AAA.0.0.BjSwj9.AWVjw0Dg9Hc"
+			"value": "0AkrGuSzoCq4AVvsj.AWWsh3HMYFrvRn0jmFZEILLLhrY.BjTKGx.mE.AAA.0.0.BjTKIH.AWX7aPkYw1o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -109,8 +96,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665862052420%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665966745388%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.10.2022 00:29 Farm1-3_by_scenum"
+	"lastEventDate": "17.10.2022 00:32 Farm1-3_by_scenum"
 }
