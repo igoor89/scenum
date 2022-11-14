@@ -1,5 +1,116 @@
 {
 	"sn": "facebook",
 	"id": "100087911466290",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Fitness Live | Assis SP",
+	"birthdate": "",
+	"country": "",
+	"isAvatarExists": true,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702052952.698285,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "LuhjY_vNKhlZSUQh1PGZTt5H"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702051889.416287,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "LuhjY7HHFhCLOCPDn50aOzT-"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699968843.090517,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100040168180015"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699829241.725317,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "i_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100087911466290"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699968843.090564,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "12%3AL7lgT8t4JdjV3Q%3A2%3A1667492950%3A-1%3A8032%3A%3AAcWn14FJEwCxHBc0co3dYbwMc7aRoRyRRTl1Vr1I9fo"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1669040232,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2560x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676211288.972142,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0pi9hW8dmtjpqGdIj.AWXNAV8jAbXTu5LbESYF6mvVnRE.BjckPL.nb.AAA.0.0.Bjck1Z.AWVvBdTSC-c"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsY2IwanpmeDJ5YSIsInRpbWUiOjE2Njg0MzUzMjJ9"
+		}
+	],
+	"lastEventDate": "14.11.2022 14:17 Farm3-8_by_scenum"
 }
